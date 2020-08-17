@@ -12,7 +12,7 @@ import java.util.List;
 import me.parzibyte.crudsqlite.modelos.Mascota;
 
 public class AdaptadorMascotas extends RecyclerView.Adapter<AdaptadorMascotas.MyViewHolder> {
-
+//set get
     private List<Mascota> listaDeMascotas;
 
     public void setListaDeMascotas(List<Mascota> listaDeMascotas) {
